@@ -1,0 +1,34 @@
+body {
+  background-color: #020320;
+}
+
+h1 {
+  color: #F5F2F2
+}
+.text-hero{
+  color: #bdbaba
+}
+
+.text-coffee {
+  color: #020320
+}
+
+.text-hero2{
+  color: #979595
+}
+
+.background-motto{
+  background-color: #bdbaba
+}
+
+.about-picture {
+  border-radius: 50%;
+  height:150px;
+  width:150px;
+  border: solid #F5F2F2;
+}
+
+
+.icon-white {
+  filter: invert(1);
+}
