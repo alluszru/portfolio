@@ -1,0 +1,38 @@
+body {
+    background-color: #111F35;
+    text-align: center;
+    font-family: 'Doto', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #D02752;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #D02752;
+}
+
+
+
+.container {
+  font-size: 200px;
+  justify-content: center;
+  color: #111F35;
+
+}
+
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 400px;
+  width: 400px;
+  border: 10px solid #F63049;
+  border-radius: 50%;
+  background-color: #8A244B;
+  vertical-align: middle;
+  line-height: 400px;    
+}
+
